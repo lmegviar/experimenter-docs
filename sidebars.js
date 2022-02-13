@@ -154,6 +154,11 @@ module.exports = {
           label: "Triggers & User Actions",
           href: "https://firefox-source-docs.mozilla.org/toolkit/components/messaging-system/docs/",
         },
+        {
+          type: "link",
+          label: "Available Targeting",
+          href: "https://firefox-source-docs.mozilla.org/browser/components/newtab/content-src/asrouter/docs/targeting-attributes.html",
+        }
       ],
     },
   ],
